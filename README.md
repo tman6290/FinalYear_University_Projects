@@ -6,4 +6,4 @@
 - Simple User Interface for an app about animals made with **JavaFX**: https://youtu.be/kGXDexgPK6g
 
 ## Final Deliverables
-- Orisha Trials (A third person RPG made with Unreal Engine using C++): https://youtu.be/63mqFZke3m0
+- Orisha Trials (A third person RPG made with Unreal Engine using **C++**): https://youtu.be/63mqFZke3m0
